@@ -35,7 +35,7 @@ A comprehensive Task Management System built with **Spring Boot**, **JPA**, **My
 
 ## Screenshots
 
-![Screenshot 2024-10-17 224151](https://github.com/user-attachments/assets/ac9b8b39-d7b9-45e1-a7e8-583d56d60d60)
-![Screenshot 2024-10-17 224225](https://github.com/user-attachments/assets/3f0b3936-3efb-4184-9056-13fdd36a9a27)
-![Screenshot 2024-10-17 224247](https://github.com/user-attachments/assets/45c5e1c8-5b8a-4aef-908d-9457684a9145)
-![Screenshot 2024-10-17 224134](https://github.com/user-attachments/assets/fc367025-9201-4f55-92ba-618eb0506bc5)
+![Screenshot 2024-10-17 224134](https://github.com/user-attachments/assets/89fd4d66-56aa-4e3a-ac3a-fe268e9ce774)
+![Screenshot 2024-10-17 224151](https://github.com/user-attachments/assets/0e8a6c4e-cb0a-47ab-810d-31d0fc28499b)
+![Screenshot 2024-10-17 224225](https://github.com/user-attachments/assets/734365d1-3592-436d-b961-9998e5189b3c)
+![Screenshot 2024-10-17 224247](https://github.com/user-attachments/assets/7d792c8b-bbe1-4b01-87f9-9c9f51e4ae03)
