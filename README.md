@@ -5,11 +5,7 @@ A comprehensive Task Management System built with **Spring Boot**, **JPA**, **My
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
